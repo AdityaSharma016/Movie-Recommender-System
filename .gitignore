@@ -6,7 +6,7 @@ venv/
 .idea/
 
 # Python cache
-__pycache__/
+__pycache__/s
 *.py[cod]
 
 # Jupyter Notebook checkpoints
@@ -15,6 +15,3 @@ __pycache__/
 # Operating System files
 .DS_Store
 Thumbs.db
-
-# Large model file
-similarity.pkl
