@@ -11,24 +11,27 @@ A Machine Learning-powered movie recommendation web application built with **Pyt
 --
 ## 📸 Screenshots
 
-<table>
-<tr>
-<td align="center">
-<b>🏠 Home Page</b><br><br>
-<img src="assets/home-page.png" width="300"/>
-</td>
+### 🏠 Home Page
 
-<td align="center">
-<b>🎬 Movie Selection</b><br><br>
-<img src="assets/movie-selected.png" width="300"/>
-</td>
+<p align="center">
+  <img src="assets/home-page.png" alt="Home Page" width="900">
+</p>
 
-<td align="center">
-<b>⭐ Recommendations</b><br><br>
-<img src="assets/recommendations.png" width="300"/>
-</td>
-</tr>
-</table>
+---
+
+### 🎬 Movie Selection
+
+<p align="center">
+  <img src="assets/movie-selected.png" alt="Movie Selection" width="900">
+</p>
+
+---
+
+### ⭐ Recommendations
+
+<p align="center">
+  <img src="assets/recommendations.png" alt="Recommendations" width="900">
+</p>
 --
 ## ✨ Features
 
