@@ -121,7 +121,7 @@ GitHub:
 https://github.com/AdityaSharma016
 
 LinkedIn:
-(Add your LinkedIn URL)
+(https://www.linkedin.com/in/adityasharma016/)
 
 ---
 
